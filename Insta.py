@@ -12,7 +12,7 @@ import yt_dlp
 logging.basicConfig(level=logging.INFO)
 
 # --- SOZLAMALAR ---
-TOKEN = "TOKENINGIZNI_SHU_YERGA_YOZING"
+TOKEN = "8428517451:AAH1A11KYoi50VcZLyYhmrAhBNbhSpxdHWQ"
 ADMIN_ID = 123456789  # O'z ID-ingiz
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
