@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO)
 
 # --- SOZLAMALAR ---
 # Token va Admin ID ni Environment Variables orqali yoki qo'lda kiriting
-TOKEN = os.getenv("BOT_TOKEN", "8428517451:AA...") # O'z tokeningizni yozing
+TOKEN = os.getenv("BOT_TOKEN", "8428517451:AAH1A11KYoi50VcZLyYhmrAhBNbhSpxdHWQ") # O'z tokeningizni yozing
 ADMIN_ID = int(os.getenv("ADMIN_ID", 8665041091))   # O'z ID-ingizni yozing
 
 bot = Bot(token=TOKEN)
